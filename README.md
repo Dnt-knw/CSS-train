@@ -4,4 +4,4 @@
 
 ### Description
 
-Wait a few seconds to see the train. This project includes only CSS animations
+    Wait a few seconds to see the train. This project includes only CSS animations
