@@ -5,7 +5,7 @@
 ## Description
 
 - Night animation of the train leaving a tunnel
-- Background contains
+- The background contains
     - Mountains
     - Sea
     - Stars
