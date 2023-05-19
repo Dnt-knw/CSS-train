@@ -1,6 +1,6 @@
 # CSS-train 🚆
 
-> Train animation using pure CSS 🙌
+> Train animation using pure CSS 🛤
 
 ### See the <a href='https://dnt-knw.github.io/CSS-train' target='_blank' title='Click to open the project'>Demo</a> 👁
 
@@ -10,7 +10,7 @@
 
 ## Description 📖
 
-- 📜 Night animation of the train leaving a tunnel 🛤
+- 📜 Night animation of the train leaving a tunnel ⬛️
 - 📜 The background contains
     - Mountains ⛰
     - Sea 🌊
