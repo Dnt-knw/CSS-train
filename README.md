@@ -1,4 +1,4 @@
-# CSS-train 🚆
+# CSS Train 🚆
 
 > Train animation using pure CSS 🛤
 
